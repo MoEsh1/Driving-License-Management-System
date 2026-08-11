@@ -24,23 +24,23 @@ The DVLD System is a robust desktop application designed to manage the core oper
 ## Application Screenshots
 
 ### Authentication & Dashboard
-> Secure login system and main navigation hub.
+> login system and main navigation hub.
 ![Login Screen](Login.png)
 ![Main Dashboard](Main.png)
 
-### Person Administration
-> Managing citizen details, generating unique Person IDs, and preventing duplicate National IDs.
+### Manage People
+> Managing Person details, generating unique Person IDs, and preventing duplicate National IDs.
 ![Add New Person](AddNewPerson.png)
 ![Person Details](PersonalDetails.png)
 
 ### Licensing & Testing Operations
 > Processing new local licenses, managing testing fees, and tracking complete driver histories.
+> Issuing international licenses based on active local licenses, and managing license detainment/fines.
 ![New Local Driving License](NewLDL.png)
 ![Manage Test Types](ManageTestType.png)
 ![License History](Liscense History.png)
 
 ### International Licenses & Detainment
-> Issuing international licenses based on active local licenses, and managing license detainment/fines.
 ![New International License](NewIDL.png)
 ![List International Licenses](List.png)
 ![Detain License](DetainLicense.png)
